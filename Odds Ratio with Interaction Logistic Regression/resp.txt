@@ -1,0 +1,13 @@
++------------------------------------------------------------------------------+
+|                  Logistic regression for subjects response                   |
++-----------------------------------------------------------+------------------+
+| RESPONSE RATE                                             |                  |
++-----------------------------------------------------------+------------------+
+| ODDS RATIO (95% CI): Treatment 1 VS. Treatment 2          | 1.67 (1.06 2.64) |
+|                                                           |                  |
+| ODDS RATIO (95% CI): Treatment 1 VS. Treatment 2 (Male)   | 1.99 (0.80 4.97) |
+| ODDS RATIO (95% CI): Treatment 1 VS. Treatment 2 (Female) | 1.36 (0.69 2.70) |
+| ODDS RATIO (95% CI): Female VS. Male (Treatment 1)        | 1.31 (0.52 3.28) |
+| ODDS RATIO (95% CI): Female VS. Male (Treatment 2)        | 0.90 (0.44 1.81) |
+| INTERACTION P-VALUE                                       | 0.4146           |
++-----------------------------------------------------------+------------------+
